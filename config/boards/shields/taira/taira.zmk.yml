@@ -1,11 +1,11 @@
 file_format: "1"
-id: taira
-name: Taira
+id: amaKB
+name: amaKB
 type: shield
 url: https://github.com/strayer/tairakb/
 requires: [pro_micro]
 features:
   - keys
 siblings:
-  - taira_left
-  - taira_right
+  - amaKB_left
+  - amaKB_right
