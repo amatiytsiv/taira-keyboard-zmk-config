@@ -1,8 +1,8 @@
 # Copyright (c) 2020 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-config SHIELD_TAIRA_LEFT
-	def_bool $(shields_list_contains,taira_left)
+config SHIELD_amaKB_LEFT
+	def_bool $(shields_list_contains,amaKB_left)
 
-config SHIELD_TAIRA_RIGHT
-	def_bool $(shields_list_contains,taira_right)
+config SHIELD_amaKB_RIGHT
+	def_bool $(shields_list_contains,amaKB_right)
